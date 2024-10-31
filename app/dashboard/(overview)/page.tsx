@@ -50,7 +50,7 @@ export default function Page() {
     }
 
     return (
-        <div className="flex items-center gap-5 self-start rounded-lg bg-blue-950 px-6 py-3 text-sm font-medium text-yellow-400 transition-colors hover:bg-blue-400 md:text-base">
+        <div className="flex items-center gap-4 self-start rounded-lg bg-blue-950 lg:w-32 md:px-50 px-6 py-3 text-sm font-medium text-yellow-400 transition-colors hover:bg-blue-400 ">
           
           <UploadButton />
         </div>
